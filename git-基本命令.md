@@ -10,7 +10,9 @@ categories: git linux
 
 # git命令
 
+````
 
+````
 
 ## 1-git 配置
 
@@ -23,4 +25,14 @@ git config --global user.name "xeon225"
 git config --global user.email "11169514@qq.com"
 
 
+
+## 2-git 初始化
+
+#创建本地项目
+
+git init
+
+#关联本地仓库
+
+git remote add origin “git@git”
 
