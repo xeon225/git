@@ -18,11 +18,11 @@ categories: git linux
 
 #设置git用户名称
 
-git config --global user.name "xeon225"
+git config --global user.name "username"
 
 #设置git用户邮箱
 
-git config --global user.email "11169514@qq.com"
+git config --global user.email "email"
 
 
 
